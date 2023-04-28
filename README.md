@@ -14,6 +14,7 @@ WIP: the followings papers will be categorized.
 ## Instruction tuning
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560) [[github](https://github.com/yizhongw/self-instruct)]
 - Stanford Alpaca: An Instruction-following LLaMA Model [[github](https://github.com/tatsu-lab/stanford_alpaca)]
+- Dolly: Democratizing the magic of ChatGPT with open models [[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)] [[blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality [[github](https://github.com/lm-sys/FastChat)] [[website](https://vicuna.lmsys.org/)]
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402) [[github](https://github.com/mbzuai-nlp/LaMini-LM)]
 
