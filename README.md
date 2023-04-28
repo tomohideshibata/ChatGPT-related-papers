@@ -9,6 +9,7 @@ WIP: the followings papers will be categorized.
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
+- [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795)
 
 ## Instruction tuning
