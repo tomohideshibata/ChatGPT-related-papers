@@ -29,6 +29,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent](https://arxiv.org/abs/2304.09542)
 - [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/abs/2304.10149)
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633)
+- [Semantic Compression With Large Language Models](https://arxiv.org/abs/2304.12512)
+- [Sentence Simplification via Large Language Models](https://arxiv.org/abs/2302.11957)
 - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
