@@ -23,6 +23,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - Dolly: Democratizing the magic of ChatGPT with open models [[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)] [[blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality [[github](https://github.com/lm-sys/FastChat)] [[website](https://vicuna.lmsys.org/)]
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402) [[github](https://github.com/mbzuai-nlp/LaMini-LM)]
+- [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
