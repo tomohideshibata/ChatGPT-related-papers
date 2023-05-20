@@ -43,5 +43,6 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
 
 ## Misc.
+- [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795)
