@@ -24,6 +24,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality [[github](https://github.com/lm-sys/FastChat)] [[website](https://vicuna.lmsys.org/)]
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402) [[github](https://github.com/mbzuai-nlp/LaMini-LM)]
 - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)
+- [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
