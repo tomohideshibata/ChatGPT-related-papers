@@ -18,6 +18,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
  
 ## Instruction tuning
+- [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
+- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+- [Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/abs/2204.07705)
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560) [[github](https://github.com/yizhongw/self-instruct)]
 - Stanford Alpaca: An Instruction-following LLaMA Model [[github](https://github.com/tatsu-lab/stanford_alpaca)]
 - Dolly: Democratizing the magic of ChatGPT with open models [[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)] [[blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]
@@ -25,6 +28,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402) [[github](https://github.com/mbzuai-nlp/LaMini-LM)]
 - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)
 - [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+- [Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://arxiv.org/abs/2305.14233) [[github](https://github.com/thunlp/UltraChat)]
+- [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
+- [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
