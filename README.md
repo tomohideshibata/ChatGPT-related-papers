@@ -16,6 +16,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) [[github](https://github.com/LAION-AI/Open-Assistant)]
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model] (https://arxiv.org/abs/2305.18290)
  
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
