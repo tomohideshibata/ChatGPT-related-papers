@@ -6,6 +6,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Instruction tuning](#instruction-tuning)
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
+- [External tools](#external-tools)
 - [Misc.](#misc)
 
 ## Reinforcement learning from human feedback
@@ -51,6 +52,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
 
+## External tools
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+ 
 ## Misc.
 - [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
