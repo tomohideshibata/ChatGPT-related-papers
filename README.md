@@ -40,15 +40,18 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)
 - [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023)
 - [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent](https://arxiv.org/abs/2304.09542)
+- [Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation](https://arxiv.org/abs/2305.07375)
 - [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/abs/2304.10149)
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633)
 - [Semantic Compression With Large Language Models](https://arxiv.org/abs/2304.12512)
 - [Human-like Summarization Evaluation with ChatGPT](https://arxiv.org/abs/2304.02554)
 - [Sentence Simplification via Large Language Models](https://arxiv.org/abs/2302.11957)
 - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
+- [ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark](https://arxiv.org/abs/2303.13648)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
-
+- [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)
+ 
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
 
