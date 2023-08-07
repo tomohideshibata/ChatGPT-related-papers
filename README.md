@@ -60,6 +60,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126)
 - [CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation](https://arxiv.org/abs/2305.14318)
+- [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.15780)
  
 ## Misc.
 - [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
