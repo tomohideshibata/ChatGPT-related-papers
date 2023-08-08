@@ -36,6 +36,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751) [[github](https://github.com/allenai/open-instruct)]
 - [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
+- [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
