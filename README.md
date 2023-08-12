@@ -58,6 +58,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Do Multilingual Language Models Think Better in English?](https://arxiv.org/abs/2308.01223)
 - [ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark](https://arxiv.org/abs/2303.13648)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
+- [Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks](https://arxiv.org/abs/2307.02179)
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
 - [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)
 - [Is GPT-3 a Good Data Annotator?](https://arxiv.org/abs/2212.10450) (ACL2023)
