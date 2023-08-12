@@ -38,6 +38,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
 - [Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://arxiv.org/abs/2305.14233) [[github](https://github.com/thunlp/UltraChat)]
 - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751) [[github](https://github.com/allenai/open-instruct)]
+- [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
 - [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 - [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
