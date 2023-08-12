@@ -55,6 +55,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Human-like Summarization Evaluation with ChatGPT](https://arxiv.org/abs/2304.02554)
 - [Sentence Simplification via Large Language Models](https://arxiv.org/abs/2302.11957)
 - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
+- [Do Multilingual Language Models Think Better in English?](https://arxiv.org/abs/2308.01223)
 - [ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark](https://arxiv.org/abs/2303.13648)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
