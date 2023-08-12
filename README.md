@@ -2,6 +2,7 @@
 This is a list of ChatGPT-related papers. Any feedback is welcome.
 
 ## Table of Contents
+- [Survey paper](#survey-paper)
 - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Instruction tuning](#instruction-tuning)
 - [Evaluation](#evaluation)
@@ -9,6 +10,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [External tools](#external-tools)
 - [Misc.](#misc)
 
+## Survey paper
+- [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+ 
 ## Reinforcement learning from human feedback
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
