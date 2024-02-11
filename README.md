@@ -77,6 +77,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 ## MoE/Routing
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
+- [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
  
 ## Misc.
 - [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
