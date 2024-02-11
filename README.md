@@ -8,6 +8,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
+- [MoE/Routing](#moerouting)
 - [Misc.](#misc)
 
 ## Survey paper
