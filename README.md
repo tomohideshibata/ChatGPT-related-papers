@@ -13,6 +13,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 
 ## Survey paper
 - [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+- [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
  
 ## Reinforcement learning from human feedback
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
