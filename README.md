@@ -3,8 +3,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 
 ## Table of Contents
 - [Survey paper](#survey-paper)
-- [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Instruction tuning](#instruction-tuning)
+- [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
@@ -14,19 +14,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 ## Survey paper
 - [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
- 
-## Reinforcement learning from human feedback
-- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
-- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) [[blog](https://openai.com/blog/webgpt/)]
-- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)
-- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
-- [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) [[github](https://github.com/LAION-AI/Open-Assistant)]
-- [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
-- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)
-- [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
-- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
- 
+
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
@@ -44,6 +32,18 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 - [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
+ 
+## Reinforcement learning from human feedback
+- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
+- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) [[blog](https://openai.com/blog/webgpt/)]
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+- [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) [[github](https://github.com/LAION-AI/Open-Assistant)]
+- [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)
+- [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
