@@ -44,6 +44,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+- [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](https://arxiv.org/abs/2404.10719)
+- [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
