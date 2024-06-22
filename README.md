@@ -82,9 +82,11 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
 - [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
+
+## Technical report of open/proprietary model
+- [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
  
 ## Misc.
-- [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
 - [Don't Trust GPT When Your Question Is Not In English](https://arxiv.org/abs/2305.16339)
 - [GPT4GEO: How a Language Model Sees the World's Geography](https://arxiv.org/abs/2306.00020)
