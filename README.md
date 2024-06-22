@@ -32,6 +32,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 - [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
+- [SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344) (EMNLP2023 Findings)
  
 ## Reinforcement learning from human feedback
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
