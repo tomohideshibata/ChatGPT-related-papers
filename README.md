@@ -8,6 +8,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
+- [Agent](#agent)
 - [MoE/Routing](#moerouting)
 - [Technical report of open/proprietary model](#technical-report-of-openproprietary-model)
 - [Misc.](#misc)
@@ -79,6 +80,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation](https://arxiv.org/abs/2305.14318)
 - [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.15780)
 
+## Agent
+- [Large Language Model Agent: A Survey on Methodology, Applications and Challenges](https://arxiv.org/abs/2503.21460)
+- [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
+ 
 ## MoE/Routing
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
