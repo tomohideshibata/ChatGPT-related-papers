@@ -5,6 +5,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Survey paper](#survey-paper)
 - [Instruction tuning](#instruction-tuning)
 - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
+- [Reinforcement learning with verifiable rewards](#reinforcement-learning-with-verifiable-rewards)
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
@@ -50,6 +51,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](https://arxiv.org/abs/2404.10719)
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 
+## Reinforcement learning with verifiable rewards
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+ 
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)
