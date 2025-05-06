@@ -77,6 +77,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 ### Benchmarks
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) (ICLR2021)
+- [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574)
  
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
