@@ -98,7 +98,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
 
 ## Technical report of open/proprietary model
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 - [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
 - [Nemotron-4 15B Technical Report](https://arxiv.org/abs/2402.16819)
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf)
