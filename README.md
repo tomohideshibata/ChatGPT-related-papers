@@ -6,6 +6,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Instruction tuning](#instruction-tuning)
 - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Reinforcement learning with verifiable rewards](#reinforcement-learning-with-verifiable-rewards)
+- [Reinforcement learning without verifiable rewards](#reinforcement-learning-without-verifiable-rewards) 
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
@@ -57,7 +58,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://www.arxiv.org/abs/2505.03335)
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
+
+## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
+- [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
  
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
