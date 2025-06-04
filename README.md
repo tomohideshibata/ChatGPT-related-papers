@@ -98,6 +98,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
 
 ## Agent
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 - [Large Language Model Agent: A Survey on Methodology, Applications and Challenges](https://arxiv.org/abs/2503.21460)
 - [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
  
