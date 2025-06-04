@@ -50,6 +50,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 - [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](https://arxiv.org/abs/2404.10719)
+- [HybridFlow: A Flexible and Efficient RLHF Framewor](https://arxiv.org/abs/2409.19256)
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 
 ## Reinforcement learning with verifiable rewards
