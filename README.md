@@ -64,6 +64,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 - [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
+- [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
  
 ## Evaluation
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
