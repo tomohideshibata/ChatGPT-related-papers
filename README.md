@@ -60,6 +60,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
+- [Magistral](https://mistral.ai/static/research/magistral.pdf)
 
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
