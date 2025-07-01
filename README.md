@@ -120,6 +120,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Nemotron-4 15B Technical Report](https://arxiv.org/abs/2402.16819)
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf)
 - [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
+- [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf)
  
 ## Misc.
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
