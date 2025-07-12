@@ -93,6 +93,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574)
 #### Coding
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) (ICLR2024)
+- [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
  
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
