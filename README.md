@@ -94,6 +94,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 #### Coding
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) (ICLR2024)
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
+- [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974)
  
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
