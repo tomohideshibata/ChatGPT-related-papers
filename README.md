@@ -92,6 +92,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) (ICLR2021)
 - [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574)
 - [Are We Done with MMLU?](https://arxiv.org/abs/2406.04127) (NAACL2025)
+- [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368)
 #### Coding
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) (ICLR2024)
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
