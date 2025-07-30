@@ -114,6 +114,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 - [Large Language Model Agent: A Survey on Methodology, Applications and Challenges](https://arxiv.org/abs/2503.21460)
+- [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
 - [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
  
 ## MoE/Routing
