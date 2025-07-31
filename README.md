@@ -103,6 +103,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 #### Long-context
 - [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654) (COLM2024)
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
+- [One ruler to measure them all: Benchmarking multilingual long-context language models](https://arxiv.org/abs/2503.01996)
  
 ## Large Language Model
 - See https://github.com/tomohideshibata/BERT-related-papers#large-language-model
