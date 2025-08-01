@@ -100,6 +100,12 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
 - [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974)
 - [OJBench: A Competition Level Code Benchmark For Large Language Models](https://arxiv.org/abs/2506.16395)
+#### Instruction following
+- [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911)
+- [Can Large Language Models Understand Real-World Complex Instructions?](https://arxiv.org/abs/2309.09150)
+- [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) (ACL2024)
+- [CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models](https://arxiv.org/abs/2402.13109) (ACL2024)
+- [MaXIFE: Multilingual and Cross-lingual Instruction Following Evaluation](https://arxiv.org/abs/2506.01776) (ACL2025)
 #### Long-context
 - [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654) (COLM2024)
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
