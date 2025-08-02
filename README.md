@@ -100,6 +100,11 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
 - [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974)
 - [OJBench: A Competition Level Code Benchmark For Large Language Models](https://arxiv.org/abs/2506.16395)
+#### Math
+- [Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/abs/2103.03874)
+- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
+- [Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models](https://arxiv.org/abs/2410.07985)
+- [MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://arxiv.org/abs/2505.23281)
 #### Instruction following
 - [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911)
 - [Can Large Language Models Understand Real-World Complex Instructions?](https://arxiv.org/abs/2309.09150)
