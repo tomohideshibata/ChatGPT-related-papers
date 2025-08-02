@@ -101,6 +101,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
 - [MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs](https://arxiv.org/abs/2501.17399)
 #### Coding
+- [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+- [HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization](https://arxiv.org/abs/2402.16694) (LREC-COLING2024)
+- [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
+- [MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation](https://arxiv.org/abs/2208.08227)
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) (ICLR2024)
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/abs/2504.02605)
 - [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974)
