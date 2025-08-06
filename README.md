@@ -173,6 +173,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
 - [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf)
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf)
+- [ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS](https://cdn.openai.com/pdf/231bf018-659a-494d-976c-2efdfc72b652/oai_gpt-oss_Model_Safety.pdf)
  
 ## Misc.
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
