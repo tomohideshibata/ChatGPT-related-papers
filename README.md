@@ -63,6 +63,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
