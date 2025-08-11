@@ -174,7 +174,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf)
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf)
 - [ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS](https://cdn.openai.com/pdf/231bf018-659a-494d-976c-2efdfc72b652/oai_gpt-oss_Model_Safety.pdf)
- 
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 ## Misc.
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
 - [Don't Trust GPT When Your Question Is Not In English](https://arxiv.org/abs/2305.16339)
