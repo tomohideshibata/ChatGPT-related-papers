@@ -111,6 +111,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?](https://arxiv.org/abs/2404.06644)
 - [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
 - [TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish](https://arxiv.org/abs/2407.12402) (EMNLP2024 Findings)
+- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
 - [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 - [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://arxiv.org/abs/2502.14739)
