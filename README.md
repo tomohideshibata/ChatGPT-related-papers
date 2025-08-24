@@ -94,6 +94,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Is GPT-3 a Good Data Annotator?](https://arxiv.org/abs/2212.10450) (ACL2023)
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 ### Benchmarks
+- [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361)
 #### General
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) (ICLR2021)
 - [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574)
