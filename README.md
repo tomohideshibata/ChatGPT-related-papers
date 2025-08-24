@@ -135,6 +135,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911)
 - [Can Large Language Models Understand Real-World Complex Instructions?](https://arxiv.org/abs/2309.09150)
 - [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) (ACL2024)
+- [Generalizing Verifiable Instruction Following](https://arxiv.org/abs/2507.02833)
 - [CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models](https://arxiv.org/abs/2402.13109) (ACL2024)
 - [Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following](https://arxiv.org/abs/2410.15553)
 - [MaXIFE: Multilingual and Cross-lingual Instruction Following Evaluation](https://arxiv.org/abs/2506.01776) (ACL2025)
