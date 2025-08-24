@@ -113,6 +113,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish](https://arxiv.org/abs/2407.12402) (EMNLP2024 Findings)
 - [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
 - [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
+- [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/abs/2304.06364)
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 - [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://arxiv.org/abs/2502.14739)
 - [LiveBench: A Challenging, Contamination-Limited LLM Benchmark](https://arxiv.org/abs/2406.19314)
