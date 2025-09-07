@@ -92,7 +92,6 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
 - [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)
 - [Is GPT-3 a Good Data Annotator?](https://arxiv.org/abs/2212.10450) (ACL2023)
-- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 ### Benchmarks
 - [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361)
 #### General
@@ -114,6 +113,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
 - [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
 - [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/abs/2304.06364)
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
+- [MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2402.14762)
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 - [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://arxiv.org/abs/2502.14739)
 - [LiveBench: A Challenging, Contamination-Limited LLM Benchmark](https://arxiv.org/abs/2406.19314)
