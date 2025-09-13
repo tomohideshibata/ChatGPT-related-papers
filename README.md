@@ -54,6 +54,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 
 ## Reinforcement learning with verifiable rewards
+- [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
