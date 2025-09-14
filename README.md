@@ -75,6 +75,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
  
 ## Evaluation
+- [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+- [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736)
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)
 - [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023)
