@@ -116,6 +116,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
 - [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
 - [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/abs/2304.06364)
+- [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/abs/2305.08322) (NeurIPS2023)
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 - [MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2402.14762)
 - [The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models](https://arxiv.org/abs/2406.05761) (NAACL2025)
