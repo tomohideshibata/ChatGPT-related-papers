@@ -68,6 +68,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
+- [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://www.arxiv.org/abs/2509.25454)
 
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
