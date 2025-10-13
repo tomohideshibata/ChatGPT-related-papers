@@ -21,6 +21,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
 
 ## Pre-training
+- [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737) (COLM2025)
 - [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920) (COLM2025)
  
 ## Instruction tuning
@@ -61,6 +62,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+- [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/abs/2503.20783) (COLM2025)
 - [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](https://arxiv.org/abs/2506.03106)
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/abs/2508.09726)
@@ -100,6 +102,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145)
 - [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)
 - [Is GPT-3 a Good Data Annotator?](https://arxiv.org/abs/2212.10450) (ACL2023)
+- [Fluid Language Model Benchmarking](https://www.arxiv.org/abs/2509.11106) (COLM2025)
 ### Benchmarks
 - [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361)
 #### General
