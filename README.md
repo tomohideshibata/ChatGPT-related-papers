@@ -3,6 +3,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 
 ## Table of Contents
 - [Survey paper](#survey-paper)
+- [Pre-training](#pre-training) 
 - [Instruction tuning](#instruction-tuning)
 - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Reinforcement learning with verifiable rewards](#reinforcement-learning-with-verifiable-rewards)
@@ -19,6 +20,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
 
+## Pre-training
+- [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920) (COLM2025)
+ 
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
