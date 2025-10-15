@@ -69,6 +69,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://www.arxiv.org/abs/2505.03335)
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
+- [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837) (NeurIPS2025)
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
