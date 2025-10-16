@@ -66,6 +66,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](https://arxiv.org/abs/2506.03106)
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/abs/2508.09726)
+- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/abs/2507.17746)
+- [Checklists Are Better Than Reward Models For Aligning Language Models](https://arxiv.org/abs/2507.18624)
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://www.arxiv.org/abs/2505.03335)
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
