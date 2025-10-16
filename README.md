@@ -12,6 +12,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
 - [Agent](#agent)
+- [Autonomous learning](#autonomous-learning)
 - [MoE/Routing](#moerouting)
 - [Technical report of open/proprietary model](#technical-report-of-openproprietary-model)
 - [Misc.](#misc)
@@ -183,7 +184,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)
 - [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
 - [RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844)
- 
+
+## Autonomous learning
+- [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
+
 ## MoE/Routing
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
