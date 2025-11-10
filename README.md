@@ -22,7 +22,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
 
 ## Pre-training
-- [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737) (COLM2025)
+- [The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale](https://arxiv.org/abs/2406.17557)
 - [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920) (COLM2025)
  
 ## Instruction tuning
@@ -206,6 +206,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
 - [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+- [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737) (COLM2025)
 - [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf)
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf)
 - [ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS](https://cdn.openai.com/pdf/231bf018-659a-494d-976c-2efdfc72b652/oai_gpt-oss_Model_Safety.pdf)
