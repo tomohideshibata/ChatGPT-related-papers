@@ -27,7 +27,11 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 - [OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text](https://arxiv.org/abs/2310.06786)
 - [InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2409.12568)
+- [The Stack: 3 TB of permissively licensed source code](https://arxiv.org/abs/2211.15533)
+- [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
+- [StarCoder 2 and The Stack v2: The Next Generation](https://arxiv.org/abs/2402.19173)
 - [To Code, or Not To Code? Exploring Impact of Code in Pre-training](https://arxiv.org/abs/2408.10914)
+- [Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining](https://arxiv.org/abs/2409.02326)
  
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
