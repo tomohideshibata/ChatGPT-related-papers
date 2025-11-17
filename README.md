@@ -33,6 +33,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [StarCoder 2 and The Stack v2: The Next Generation](https://arxiv.org/abs/2402.19173)
 - [To Code, or Not To Code? Exploring Impact of Code in Pre-training](https://arxiv.org/abs/2408.10914)
 - [Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining](https://arxiv.org/abs/2409.02326)
+- [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
+- [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) (EMNLP2023)
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+- [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](https://arxiv.org/abs/2407.13623) (NeurIPS2024)
  
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
