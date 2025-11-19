@@ -208,6 +208,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
 - [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
 
+## Interpretability
+- [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
+- [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
+ 
 ## Technical report of open/proprietary model
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
