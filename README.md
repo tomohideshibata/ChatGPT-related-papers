@@ -120,6 +120,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)
 - [Is GPT-3 a Good Data Annotator?](https://arxiv.org/abs/2212.10450) (ACL2023)
 - [Fluid Language Model Benchmarking](https://www.arxiv.org/abs/2509.11106) (COLM2025)
+- [Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation](https://arxiv.org/abs/2508.13144)
 ### Benchmarks
 - [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361)
 #### General
