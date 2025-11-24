@@ -52,11 +52,12 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402) [[github](https://github.com/mbzuai-nlp/LaMini-LM)]
 - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)
 - [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
-- [Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://arxiv.org/abs/2305.14233) [[github](https://github.com/thunlp/UltraChat)]
+- [Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://arxiv.org/abs/2305.14233) [[github](https://github.com/thunlp/UltraChat)] (EMNLP2023)
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
 - [SAIL: Search-Augmented Instruction Learning](https://arxiv.org/abs/2305.15225)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 - [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
+- [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://arxiv.org/abs/2405.01470) (ICLR2024)
 - [SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344) (EMNLP2023 Findings)
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
  
