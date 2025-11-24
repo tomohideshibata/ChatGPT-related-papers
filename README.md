@@ -28,6 +28,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920) (COLM2025)
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 - [Organize the Web: Constructing Domains Enhances Pre-Training Data Curation](https://arxiv.org/abs/2502.10341) (ICML2025)
+- [Llemma: An Open Language Model For Mathematics](https://arxiv.org/abs/2310.10631)
 - [OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text](https://arxiv.org/abs/2310.06786)
 - [InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2409.12568)
 - [The Stack: 3 TB of permissively licensed source code](https://arxiv.org/abs/2211.15533)
