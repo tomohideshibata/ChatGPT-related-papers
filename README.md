@@ -214,6 +214,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 - [Mixtral of Experts](https://arxiv.org/abs/2401.04088)
 - [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
+- [Parallel Scaling Law for Language Models](https://arxiv.org/abs/2505.10475)
 
 ## Interpretability
 - [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
