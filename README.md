@@ -45,7 +45,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) (EMNLP2023)
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
 - [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](https://arxiv.org/abs/2407.13623) (NeurIPS2024)
- 
+- [Model Merging in Pre-training of Large Language Models](https://arxiv.org/abs/2505.12082)
+  
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
