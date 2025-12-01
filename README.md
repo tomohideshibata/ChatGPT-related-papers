@@ -85,6 +85,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 ## Reinforcement learning with verifiable rewards
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/abs/2503.20783) (COLM2025)
 - [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
