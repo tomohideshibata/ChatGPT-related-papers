@@ -14,6 +14,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Agent](#agent)
 - [Autonomous learning](#autonomous-learning)
 - [MoE/Routing](#moerouting)
+- [Test-time Scaling](#test-time-scaling)
+- [Interpretability](#interpretability)
 - [Technical report of open/proprietary model](#technical-report-of-openproprietary-model)
 - [Misc.](#misc)
 
@@ -225,6 +227,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491) (ICLR2024)
 - [Parallel Scaling Law for Language Models](https://arxiv.org/abs/2505.10475)
 
+## Test-time Scaling
+- [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](https://arxiv.org/abs/2503.24235)
+- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+ 
 ## Interpretability
 - [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
 - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
