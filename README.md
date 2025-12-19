@@ -193,9 +193,10 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 #### Agent
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045)
 #### Long-context
+- [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508) (ACL2024)
+- [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204) (ACL2025)
 - [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654) (COLM2024)
 - [HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly](https://arxiv.org/abs/2410.02694) (ICLR2025)
-- [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204) (ACL2025)
 - [One ruler to measure them all: Benchmarking multilingual long-context language models](https://arxiv.org/abs/2503.01996)
  
 ## Large Language Model
@@ -205,6 +206,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 - [How to Train Long-Context Language Models (Effectively)](https://arxiv.org/abs/2410.02660) (ACL2025)
 - [LongAttn: Selecting Long-context Training Data via Token-level Attention](https://arxiv.org/abs/2502.16860) (ACL2025 Findings)
+- [CLIPPER: Compression enables long-context synthetic data generation](https://arxiv.org/abs/2502.14854) (COLM2025)
+- [What is Wrong with Perplexity for Long-context Language Modeling?](https://arxiv.org/abs/2410.23771)
  
 ## External tools
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
