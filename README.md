@@ -7,7 +7,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Instruction tuning](#instruction-tuning)
 - [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Reinforcement learning with verifiable rewards](#reinforcement-learning-with-verifiable-rewards)
-- [Reinforcement learning without verifiable rewards](#reinforcement-learning-without-verifiable-rewards) 
+- [Reinforcement learning without verifiable rewards](#reinforcement-learning-without-verifiable-rewards)
+- [Reasoning](#reasoning)
 - [Evaluation](#evaluation)
 - [Large Language Model](#large-language-model)
 - [External tools](#external-tools)
@@ -108,11 +109,15 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
 - [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://www.arxiv.org/abs/2509.25454)
 - [Reasoning with Sampling: Your Base Model is Smarter Than You Think]()
+- [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718)
  
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 - [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
 - [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
+
+## Reasoning
+- [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178)
  
 ## Evaluation
 - [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
