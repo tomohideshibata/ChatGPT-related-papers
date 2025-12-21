@@ -108,8 +108,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
 - [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://www.arxiv.org/abs/2509.25454)
-- [Reasoning with Sampling: Your Base Model is Smarter Than You Think]()
-- [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718)
+- [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/abs/2510.14901)
+- [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718) (ACL2025)
  
 ## Reinforcement learning without verifiable rewards
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
