@@ -72,6 +72,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Instruction Mining: High-Quality Instruction Data Selection for Large Language Models](https://arxiv.org/abs/2307.06290)
 - [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://arxiv.org/abs/2405.01470) (ICLR2024)
 - [SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344) (EMNLP2023 Findings)
+- [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/abs/2402.06619)
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
  
 ## Reinforcement learning from human feedback
