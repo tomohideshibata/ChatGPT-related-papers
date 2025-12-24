@@ -283,3 +283,5 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Don't Trust GPT When Your Question Is Not In English](https://arxiv.org/abs/2305.16339)
 - [GPT4GEO: How a Language Model Sees the World's Geography](https://arxiv.org/abs/2306.00020)
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795)
+- [Arcee's MergeKit: A Toolkit for Merging Large Language Models](https://arxiv.org/abs/2403.13257)
+- [Merge to Learn: Efficiently Adding Skills to Language Models with Model Merging](https://arxiv.org/abs/2410.12937) (EMNLP2024 Findings)
