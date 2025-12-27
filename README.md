@@ -5,7 +5,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Survey paper](#survey-paper)
 - [Pre-training](#pre-training) 
 - [Instruction tuning](#instruction-tuning)
-- [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
+- [Preference tuning](#preference-tuning)
 - [Reinforcement learning with verifiable rewards](#reinforcement-learning-with-verifiable-rewards)
 - [Reinforcement learning without verifiable rewards](#reinforcement-learning-without-verifiable-rewards)
 - [Reasoning](#reasoning)
@@ -75,7 +75,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/abs/2402.06619)
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
  
-## Reinforcement learning from human feedback
+## Preference tuning
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) [[blog](https://openai.com/blog/webgpt/)]
