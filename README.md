@@ -114,6 +114,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837) (NeurIPS2025)
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
+- [OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization](https://arxiv.org/abs/2506.18880)
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
@@ -122,6 +123,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718) (ACL2025)
  
 ## Reinforcement learning without verifiable rewards
+- [Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains](https://arxiv.org/abs/2503.23829)
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 - [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
 - [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
