@@ -93,6 +93,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) (ICML2024)
 - [UltraFeedback: Boosting Language Models with Scaled AI Feedback](https://arxiv.org/abs/2310.01377) (ICML2024)
 - [The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains](https://arxiv.org/abs/2507.06187) (COLM2025)
+- [Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models](https://arxiv.org/abs/2410.18252) (ICLR2025)
 
 ## Reinforcement learning with verifiable rewards
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)
