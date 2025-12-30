@@ -294,3 +294,4 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795)
 - [Arcee's MergeKit: A Toolkit for Merging Large Language Models](https://arxiv.org/abs/2403.13257)
 - [Merge to Learn: Efficiently Adding Skills to Language Models with Model Merging](https://arxiv.org/abs/2410.12937) (EMNLP2024 Findings)
+- [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
