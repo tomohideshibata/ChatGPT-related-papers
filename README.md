@@ -213,6 +213,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [MaXIFE: Multilingual and Cross-lingual Instruction Following Evaluation](https://arxiv.org/abs/2506.01776) (ACL2025)
 #### Agent
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045)
+- [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](https://arxiv.org/abs/2411.14199)
+- [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572) (ACL2025)
+ 
 #### Long-context
 - [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508) (ACL2024)
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204) (ACL2025)
