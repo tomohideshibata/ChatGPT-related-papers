@@ -214,6 +214,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 #### Agent
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045)
 - [APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets](https://arxiv.org/abs/2406.18518)
+- [ToolACE: Winning the Points of LLM Function Calling](https://arxiv.org/abs/2409.00920) (ICLR2025)
 - [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](https://arxiv.org/abs/2411.14199)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572) (ACL2025)
  
