@@ -133,6 +133,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
 - [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178)
 - [OpenCodeReasoning: Advancing Data Distillation for Competitive Coding](https://arxiv.org/abs/2504.01943) (COLM2025)
+- [Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective](https://arxiv.org/abs/2506.14965)
  
 ## Evaluation
 - [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
