@@ -296,6 +296,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS](https://cdn.openai.com/pdf/231bf018-659a-494d-976c-2efdfc72b652/oai_gpt-oss_Model_Safety.pdf)
 - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 - [Apertus: Democratizing Open and Compliant LLMs for Global Language Environments](https://arxiv.org/abs/2509.14233)
+- [Nemotron-Flash: Towards Latency-Optimal Hybrid Small Language Models](https://arxiv.org/abs/2511.18890) (NeurIPS2025)
 - [INTELLECT-3: Technical Report](https://arxiv.org/abs/2512.16144)
 ## Misc.
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
