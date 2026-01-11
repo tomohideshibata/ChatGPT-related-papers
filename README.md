@@ -53,6 +53,9 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
 - [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](https://arxiv.org/abs/2407.13623) (NeurIPS2024)
 - [Model Merging in Pre-training of Large Language Models](https://arxiv.org/abs/2505.12082)
+- [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
+- [RLP: Reinforcement as a Pretraining Objective](https://arxiv.org/abs/2510.01265)
+- [Joint Selection for Large-Scale Pre-Training Data via Policy Gradient-based Mask Learning](https://arxiv.org/abs/2512.24265)
   
 ## Instruction tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
