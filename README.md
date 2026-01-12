@@ -224,7 +224,6 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](https://arxiv.org/abs/2411.14199)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572) (ACL2025)
 - [AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite](https://arxiv.org/abs/2510.21652)
- 
 #### Long-context
 - [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508) (ACL2024)
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204) (ACL2025)
@@ -271,6 +270,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 
 ## Test-time scaling
 - [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](https://arxiv.org/abs/2503.24235)
+- [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
  
 ## Interpretability
