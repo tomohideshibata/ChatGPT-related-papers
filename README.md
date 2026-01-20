@@ -246,6 +246,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126)
 - [CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation](https://arxiv.org/abs/2305.14318)
 - [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 
 ## Agent
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
