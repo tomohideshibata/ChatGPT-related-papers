@@ -224,6 +224,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ToolACE: Winning the Points of LLM Function Calling](https://arxiv.org/abs/2409.00920) (ICLR2025)
 - [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](https://arxiv.org/abs/2411.14199)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572) (ACL2025)
+- [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)
 - [AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite](https://arxiv.org/abs/2510.21652)
 #### Long-context
 - [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508) (ACL2024)
