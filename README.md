@@ -280,6 +280,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
  
 ## Interpretability
 - [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
+- [Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models](https://arxiv.org/abs/2601.14004) [[github](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey)]
 - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
  
 ## Technical report of open/proprietary model
