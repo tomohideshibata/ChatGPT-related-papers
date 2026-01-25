@@ -279,6 +279,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
  
 ## Interpretability
+- [A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)
 - [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
 - [Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models](https://arxiv.org/abs/2601.14004) [[github](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey)]
 - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
