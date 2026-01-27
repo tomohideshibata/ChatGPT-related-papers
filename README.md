@@ -262,7 +262,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
  
 ## Autonomous learning
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://www.arxiv.org/abs/2505.03335)
-- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) (ICLR2026)
 - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 - [Towards Agentic Self-Learning LLMs in Search Environment](https://www.arxiv.org/abs/2510.14253)
 - [Dr. Zero: Self-Evolving Search Agents without Training Data](https://arxiv.org/abs/2601.07055)
