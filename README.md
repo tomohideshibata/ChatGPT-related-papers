@@ -135,6 +135,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 - [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
 - [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
+- [Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802)
 
 ## Reasoning
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
