@@ -37,7 +37,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text](https://arxiv.org/abs/2310.06786)
 - [InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2409.12568)
 - [MegaMath: Pushing the Limits of Open Math Corpora](https://arxiv.org/abs/2504.02807)
-- [Rewriting Pre-Training Data Boosts LLM Performance in Math and Code](https://arxiv.org/abs/2505.02881)
+- [Rewriting Pre-Training Data Boosts LLM Performance in Math and Code](https://arxiv.org/abs/2505.02881) (ICLR2026)
 - [The Stack: 3 TB of permissively licensed source code](https://arxiv.org/abs/2211.15533)
 - [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
 - [StarCoder 2 and The Stack v2: The Next Generation](https://arxiv.org/abs/2402.19173)
