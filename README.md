@@ -273,6 +273,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 - [Towards Agentic Self-Learning LLMs in Search Environment](https://www.arxiv.org/abs/2510.14253)
 - [Dr. Zero: Self-Evolving Search Agents without Training Data](https://arxiv.org/abs/2601.07055)
+- [Towards Execution-Grounded Automated AI Research](https://arxiv.org/abs/2601.14525)
 - [Self-Improving Pretraining: using post-trained models to pretrain better models](https://arxiv.org/abs/2601.21343)
  
 ## MoE/Routing
