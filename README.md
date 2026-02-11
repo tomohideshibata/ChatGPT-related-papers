@@ -93,6 +93,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints](https://arxiv.org/abs/2309.16240)
 - [Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization](https://arxiv.org/abs/2310.03708) (ACL2024 Findings)
 - [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734) (NeurIPS2024)
+- [Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer](https://arxiv.org/abs/2405.16436) (NeurIPS2024)
 - [Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization](https://arxiv.org/abs/2410.08847) (ICLR2025)
 - [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](https://arxiv.org/abs/2404.10719)
 - [HybridFlow: A Flexible and Efficient RLHF Framewor](https://arxiv.org/abs/2409.19256)
