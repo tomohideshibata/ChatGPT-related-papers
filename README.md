@@ -337,5 +337,8 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795)
 - [Arcee's MergeKit: A Toolkit for Merging Large Language Models](https://arxiv.org/abs/2403.13257)
 - [Merge to Learn: Efficiently Adding Skills to Language Models with Model Merging](https://arxiv.org/abs/2410.12937) (EMNLP2024 Findings)
+- [Large Concept Models: Language Modeling in a Sentence Representation Space](https://arxiv.org/abs/2412.08821)
+- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769) (COLM2025)
+- [LLM Pretraining with Continuous Concepts](https://arxiv.org/abs/2502.08524)
 - [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - [Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index](https://arxiv.org/abs/2506.12229) (EMNLP2025)
