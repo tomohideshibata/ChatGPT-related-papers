@@ -299,6 +299,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
 - [How a Bilingual LM Becomes Bilingual: Tracing Internal Representations with Sparse Autoencoders](https://arxiv.org/abs/2503.06394) (EMNLP2025 Findings)
 - [TensorLens: End-to-End Transformer Analysis via High-Order Attention Tensors](https://www.arxiv.org/abs/2601.17958)
+- [Tracing the Representation Geometry of Language Models from Pretraining to Post-training](https://arxiv.org/abs/2509.23024)
  
 ## Technical report of open/proprietary model
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
