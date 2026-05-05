@@ -120,6 +120,7 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [PipelineRL: Faster On-policy Reinforcement Learning for Long Sequence Generation](https://arxiv.org/abs/2509.19128)
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/abs/2508.09726)
 - [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/abs/2507.17746)
+- [Online Rubrics Elicitation from Pairwise Comparisons](https://arxiv.org/abs/2510.07284) (ICML2026)
 - [Checklists Are Better Than Reward Models For Aligning Language Models](https://arxiv.org/abs/2507.18624)
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
