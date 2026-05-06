@@ -348,3 +348,4 @@ This is a list of ChatGPT-related papers. Any feedback is welcome.
 - [LLM Pretraining with Continuous Concepts](https://arxiv.org/abs/2502.08524)
 - [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - [Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index](https://arxiv.org/abs/2506.12229) (EMNLP2025)
+- [LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models](https://arxiv.org/abs/2404.07004) [[github](https://github.com/facebookresearch/llm-transparency-tool)] (ACL2024 Demo)
